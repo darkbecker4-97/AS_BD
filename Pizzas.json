@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "6499c25d342388d86fdb0ecd"
+  },
+  "nome": "Calabresa",
+  "tamanhos": [
+    "Pequeno",
+    "Médio",
+    "Grande"
+  ],
+  "precos": [
+    {
+      "tamanho": "Pequeno",
+      "preco": 10
+    },
+    {
+      "tamanho": "Médio",
+      "preco": 15
+    },
+    {
+      "tamanho": "Grande",
+      "preco": 20
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6499c265342388d86fdb0ece"
+  },
+  "nome": "Quatro Queijos",
+  "tamanhos": [
+    "Pequeno",
+    "Médio",
+    "Grande"
+  ],
+  "precos": [
+    {
+      "tamanho": "Pequeno",
+      "preco": 10
+    },
+    {
+      "tamanho": "Médio",
+      "preco": 15
+    },
+    {
+      "tamanho": "Grande",
+      "preco": 20
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6499c26b342388d86fdb0ecf"
+  },
+  "nome": "Portuguesa",
+  "tamanhos": [
+    "Pequeno",
+    "Médio",
+    "Grande"
+  ],
+  "precos": [
+    {
+      "tamanho": "Pequeno",
+      "preco": 10
+    },
+    {
+      "tamanho": "Médio",
+      "preco": 15
+    },
+    {
+      "tamanho": "Grande",
+      "preco": 20
+    }
+  ]
+}]

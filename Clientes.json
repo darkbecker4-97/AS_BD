@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6499c133342388d86fdb0ec7"
+  },
+  "nome": "Iago",
+  "endereco": "Rua balbino, 166",
+  "telefone": "5599999889"
+},
+{
+  "_id": {
+    "$oid": "6499c140342388d86fdb0ec8"
+  },
+  "nome": "João Silva",
+  "endereco": "Rua A, 123",
+  "telefone": "(11) 98765-4321"
+},
+{
+  "_id": {
+    "$oid": "6499c149342388d86fdb0ec9"
+  },
+  "nome": "Maria Santos",
+  "endereco": "Avenida B, 456",
+  "telefone": "(22) 55555-1234"
+},
+{
+  "_id": {
+    "$oid": "6499c151342388d86fdb0eca"
+  },
+  "nome": "Pedro Oliveira",
+  "endereco": "Rua C, 789",
+  "telefone": "(33) 77777-9999"
+},
+{
+  "_id": {
+    "$oid": "6499c167342388d86fdb0ecb"
+  },
+  "nome": "Ana Ferreira",
+  "endereco": "Avenida D, 987",
+  "telefone": "(44) 22222-8888"
+}]

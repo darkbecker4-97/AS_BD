@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6499c2e7342388d86fdb0ed0"
+  },
+  "nome": "Coca-Cola",
+  "preco": 5
+},
+{
+  "_id": {
+    "$oid": "6499c2ee342388d86fdb0ed1"
+  },
+  "nome": "Guaraná Antarctica",
+  "preco": 4
+},
+{
+  "_id": {
+    "$oid": "6499c2f4342388d86fdb0ed2"
+  },
+  "nome": "Suco de Laranja",
+  "preco": 7
+},
+{
+  "_id": {
+    "$oid": "6499c2fb342388d86fdb0ed3"
+  },
+  "nome": "Água Mineral",
+  "preco": 2
+}]

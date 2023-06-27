@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "6499c4b5342388d86fdb0ed4"
+  },
+  "cliente_id": {
+    "$oid": "6499c133342388d86fdb0ec7"
+  },
+  "data_hora": {
+    "$date": "2023-06-26T17:02:45.337Z"
+  },
+  "tipo": "entrega",
+  "endereco_entrega": "Rua D, 123",
+  "itens": [
+    {
+      "produto_id": {
+        "$oid": "6499c2e7342388d86fdb0ed0"
+      },
+      "tipo": "bebida",
+      "quantidade": 2
+    }
+  ],
+  "total": 10
+},
+{
+  "_id": {
+    "$oid": "6499c5ed342388d86fdb0ed6"
+  },
+  "cliente_id": {
+    "$oid": "6499c140342388d86fdb0ec8"
+  },
+  "data_hora": {
+    "$date": "2023-06-26T17:07:57.497Z"
+  },
+  "tipo": "entrega",
+  "endereco_entrega": "Rua D, 123",
+  "itens": [
+    {
+      "produto_id": {
+        "$oid": "6499c25d342388d86fdb0ecd"
+      },
+      "tipo": "pizza",
+      "tamanho": "pequena",
+      "quantidade": 2
+    },
+    {
+      "produto_id": {
+        "$oid": "6499c2ee342388d86fdb0ed1"
+      },
+      "tipo": "bebida",
+      "quantidade": 2
+    }
+  ],
+  "total": 38
+},
+{
+  "_id": {
+    "$oid": "6499c5f6342388d86fdb0ed7"
+  },
+  "cliente_id": {
+    "$oid": "6499c149342388d86fdb0ec9"
+  },
+  "data_hora": {
+    "$date": "2023-06-26T17:08:06.649Z"
+  },
+  "tipo": "entrega",
+  "endereco_entrega": "Rua D, 123",
+  "itens": [
+    {
+      "produto_id": {
+        "$oid": "6499c265342388d86fdb0ece"
+      },
+      "tipo": "pizza",
+      "tamanho": "média",
+      "quantidade": 4
+    },
+    {
+      "produto_id": {
+        "$oid": "6499c2fb342388d86fdb0ed3"
+      },
+      "tipo": "bebida",
+      "quantidade": 3
+    }
+  ],
+  "total": 54
+},
+{
+  "_id": {
+    "$oid": "6499c601342388d86fdb0ed8"
+  },
+  "cliente_id": {
+    "$oid": "6499c151342388d86fdb0eca"
+  },
+  "data_hora": {
+    "$date": "2023-06-26T17:08:17.896Z"
+  },
+  "tipo": "entrega",
+  "endereco_entrega": "Rua D, 123",
+  "itens": [
+    {
+      "produto_id": {
+        "$oid": "6499c26b342388d86fdb0ecf"
+      },
+      "tipo": "pizza",
+      "tamanho": "pequena",
+      "quantidade": 2
+    },
+    {
+      "produto_id": {
+        "$oid": "6499c2fb342388d86fdb0ed3"
+      },
+      "tipo": "bebida",
+      "quantidade": 2
+    }
+  ],
+  "total": 24
+}]
